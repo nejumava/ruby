@@ -1,0 +1,5 @@
+1,¿ Quien escribio la Odisea?,Homero
+2,¿Cuál es el río más largo del mundo?,Amazonas
+3,¿Cómo se llama la Reina del Reino Unido?,Isabel II
+4,¿Dónde originaron los juegos olímpicos?,Grecia
+5,Si 50 es el 100% ¿cuánto es el 90%?,45
